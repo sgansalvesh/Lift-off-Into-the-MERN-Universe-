@@ -44,3 +44,7 @@ On Day 2 of my MERN journey, I learned to structure content using tables, gather
 - LinkedIn: [sgansalvesh17](https://www.linkedin.com/in/sgansalvesh17)
 
 
+Thank you for reading ! ❤️
+
+© 2025 Smruti Gansalvesh - Lift-off to the MERN Universe
+

@@ -77,7 +77,10 @@ Why are they important? Because they help:
 
 ---
 
-
+🔗 Connect with me:
+- GitHub: [@sgansalvesh](https://github.com/sgansalvesh)
+- LinkedIn: [sgansalvesh17](https://www.linkedin.com/in/sgansalvesh17)
+  
 Thank you for reading ! ❤️ 
 
 © 2025 Smruti Gansalvesh - Lift-off to the MERN Universe

@@ -1,4 +1,4 @@
-# 🚀 Day 2 - Tables, Forms & Basic CSS Styling (Advanced)
+# 🚀 Day 2 - Tables, Forms & Basic CSS Styling 
 
 On Day 2 of my MERN journey, I learned how to create advanced tables with semantic tags and built a form with dropdowns, email input, and applied basic but attractive CSS styling.
 

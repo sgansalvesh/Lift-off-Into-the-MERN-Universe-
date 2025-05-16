@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="HTML Form with CSS styling by sgansalvesh" />
+  <meta name="keywords" content="HTML, form, CSS, web dev, MERN" />
+  <meta name="author" content="sgansalvesh" />
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="form-container">
+    <h1>📋 Course Registration</h1>
+    <form>
+      <label for="name">Full Name:</label>
+      <input type="text" id="name" name="name" placeholder="Enter your full name" required />
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" placeholder="example@mail.com" required />
+
+      <label for="subject">Select Subject:</label>
+      <select id="subject" name="subject" required>
+        <option value="">-- Choose a subject --</option>
+        <option value="html">HTML Basics</option>
+        <option value="css">CSS Styling</option>
+        <option value="js">JavaScript Fundamentals</option>
+      </select>
+
+      <label for="message">Why do you want to join?</label>
+      <textarea id="message" name="message" rows="4" placeholder="Write a short reason..."></textarea>
+
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+
+</body>
+</html>
